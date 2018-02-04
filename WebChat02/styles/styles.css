@@ -1,0 +1,31 @@
+﻿body {
+}
+#container {
+    width: 90vw;
+    margin: auto;
+    padding: 10px;
+}
+
+#userList {
+    float: right;
+}
+
+    #userList ul {
+        list-style: none;
+    }
+
+#messages {
+    width: 70vw;
+    height: 90vh;
+    float: left;
+    border: solid thin lightgray;
+}
+
+#msgContainer input, #msgContainer button {
+    float: left;
+}
+
+#msgContainer input {
+    width: 70vw;
+}
+
