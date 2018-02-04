@@ -94,6 +94,8 @@
     </None>
     <Content Include="index.html" />
     <Content Include="jquery-3.3.1.min.js" />
+    <Content Include="scripts\app.js" />
+    <Content Include="styles\styles.css" />
     <Content Include="Web.config" />
     <Content Include="Connected Services\ChatServiceReference\WebChat02.ChatServiceReference.LoginResponse.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
